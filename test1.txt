@@ -3,3 +3,4 @@ this is second commit after first
 add hello
 add good
 i have a new idea for work
+test for new idea
